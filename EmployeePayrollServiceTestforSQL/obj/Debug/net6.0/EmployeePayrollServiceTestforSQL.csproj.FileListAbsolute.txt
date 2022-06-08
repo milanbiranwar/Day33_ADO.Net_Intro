@@ -1,0 +1,6 @@
+C:\Users\milan\source\repos\Day33_ADO.Net_Intro\EmployeePayrollServiceTestforSQL\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\milan\source\repos\Day33_ADO.Net_Intro\EmployeePayrollServiceTestforSQL\obj\Debug\net6.0\EmployeePayrollServiceTestforSQL.csproj.AssemblyReference.cache
+C:\Users\milan\source\repos\Day33_ADO.Net_Intro\EmployeePayrollServiceTestforSQL\obj\Debug\net6.0\EmployeePayrollServiceTestforSQL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\source\repos\Day33_ADO.Net_Intro\EmployeePayrollServiceTestforSQL\obj\Debug\net6.0\EmployeePayrollServiceTestforSQL.AssemblyInfoInputs.cache
+C:\Users\milan\source\repos\Day33_ADO.Net_Intro\EmployeePayrollServiceTestforSQL\obj\Debug\net6.0\EmployeePayrollServiceTestforSQL.AssemblyInfo.cs
+C:\Users\milan\source\repos\Day33_ADO.Net_Intro\EmployeePayrollServiceTestforSQL\obj\Debug\net6.0\EmployeePayrollServiceTestforSQL.csproj.CoreCompileInputs.cache
